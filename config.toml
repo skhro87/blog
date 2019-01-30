@@ -1,4 +1,4 @@
-baseURL = "https://skhro87.github.io/blog"
+baseURL = "https://skhro87.github.io/blog/"
 languageCode = "en-us"
 title = "seb's blob"
 theme = "m10c"
